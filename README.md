@@ -8,7 +8,7 @@ demonstrates:
  - Both front end React and back end Node and Express
  - Node REST fixed end points (would like to implement Graph)
  - React pre-hooks yep old school class and functional components
- -- REDUX for global state.
+ - REDUX for global state.
  - using JWT tokens for auth
  
 After this project the main areas I would evaluate are the database namely, relationship
