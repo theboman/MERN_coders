@@ -5,7 +5,7 @@ full stack MERN example with auth
 This is an example of a full stack website
 
 demonstrates:
- - Both front end React and back end Node and Express
+ - Both front end and back end. React.js (frontend) Node and Express (backend)
  - Node REST fixed end points (would like to implement Graph)
  - React pre-hooks yep old school class and functional components
  - REDUX for global state.
